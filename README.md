@@ -1,7 +1,7 @@
 # Y-O-Y Sales Dashboard (Using Power BI)
 
 ## Objective
-To develop a comprehensive sales dashboard that provides real-time insights into key performance metrics and year on year trends.
+To develop a comprehensive sales dashboard that provides real-time insights into key performance metrics and year over year trends.
 
 ## Analysis
 The analysis performed in this project includes:
